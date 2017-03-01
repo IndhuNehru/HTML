@@ -1,0 +1,32 @@
+
+		.one{
+		border-style: solid;
+		border-width: 1px;
+		border-color : white;
+		text-align: center;
+		}
+		
+		.two{
+		border-style: solid;
+		border-width: 1px;
+		border-color : white;
+		text-align: center;
+		}
+
+		.three{
+		border-style: solid;
+		border-width: 1px;
+		border-color : white;
+		text-align: center;
+		}
+		
+		blockquote{
+		margin-left : 0;
+		width : 600px;
+		}
+
+		body{
+		margin : auto;
+		width : 500px;
+		background-color : #e3e3e3;
+		}

@@ -1,0 +1,112 @@
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #FFA07A;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    text-align: left;
+    
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+
+}
+
+.dropdown-content a:hover {
+	background-color: #f1f1f1
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+.maindiv{
+	text-align: center;
+	background color: gray;
+}
+
+.container_12{
+	background-color: #DAA520;
+	font-family: Sofia;
+	color: white;
+}
+header{
+	position: fixed;
+	background-color: #9acd32;
+	margin-bottom: 50px;
+	height: 170px;
+}
+
+.para{
+	text-align: justify;
+}
+
+.grid_4{
+	margin-top: 300px;
+	text-align: center;
+	background-color: #808000;
+	height: 980px;
+}
+
+.grid_12{
+	background color: red;
+}
+
+footer{
+	text-align: center;
+	background-color: #9acd32;
+	margin-top: 50px;
+	color: black;
+}
+
+#add{
+	text-align: center;
+	background-color: #808000;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.grid_6{
+	text-align: center;
+	background-color: #808000;
+	height: 700px;
+}
+
+#arc, #read, #lib{
+    color: white;
+    padding: 9px;
+    margin-bottom: 11px;
+    color: white;
+}
+
+.com, .fic, .rom{
+	
+    padding: 10px;
+    height: 150vh;
+}
+
+.rec{
+	padding: 10px;
+}
